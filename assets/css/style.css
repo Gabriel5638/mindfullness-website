@@ -9,4 +9,19 @@
 body{
      font-family: nerko one,sans-serif;
      font-weight: 300;
+     color: maroon;
+}
+
+/* headings and logo */
+
+h1,h2{
+     font-family: anton, sans-serif;
+     text-transform: uppercase;
+     letter-spacing: 4px;
+     color: purple;
+}
+
+#logo{
+      float: right;
+      font-size: 280%;
 }
