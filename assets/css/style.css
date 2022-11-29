@@ -25,3 +25,12 @@ h1,h2{
       float: right;
       font-size: 280%;
 }
+
+
+
+/* navigation links */
+
+#menu { font-size: adjust;
+        letter-spacing: 10px;     
+}
+
