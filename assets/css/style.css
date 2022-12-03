@@ -61,9 +61,21 @@ nav ul li a:hover:before{
           text-align: center;
  }
 
-.box-area h2{ 
+.box-area header{ 
+             font-family: Anton;
+             text-align: center;
              text-transform: uppercase;
+             font-weight: 300;
              font-size: 50px;
+
+}
+
+.box-area footer {
+      font-family: Anton;
+      text-align: center;
+      text-transform: uppercase;
+      font-weight: 300;
+      font-size: 40px;
 
 }
 
@@ -71,6 +83,8 @@ nav ul li a:hover:before{
        width:75%;
        
 }
+
+       
 
 
 .logo{
@@ -88,4 +102,6 @@ nav ul li a:hover:before{
           width: 100%;
           
 }
+
+
 
