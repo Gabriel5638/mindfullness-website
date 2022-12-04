@@ -130,9 +130,10 @@ nav ul li a:hover:before{
 /* anything under 1024px */
 @media screen and (max-width: 1024px){
 
-             .image-grid{
-                          2;
+             .image-grid{ 
+                    --num-cols: 2;
+                    --row-height: 200px;
              }
-
+             
              
 }
