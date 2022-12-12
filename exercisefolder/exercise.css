@@ -1,9 +1,42 @@
-/* GENERAL CSS */
-* {
-    margin: 0%;
-    padding: 0;
-    box-sizing: border-box;
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Nerko+One&display=swap');
+
+
+body{
+    background-color: white;
+
 }
+
+
+
+    .nav-list{
+
+        font-family: Anton, sans-serif;
+        background: inherit;
+        margin: 0%;
+        padding: 1rem 0%;
+        border-radius:var(--radius);
+        display: flex;
+        align-items: center;
+    }
+    
+    .nav-item{ 
+    list-style: none;
+    margin-left: 2rem;
+    
+    }
+    
+    
+    .nav-item a{
+        font-family: Anton;
+        text-decoration: none;
+        color: white;
+        border-color: white;
+}
+
+
+
+
+
 
 /* VIDEO */
 
@@ -14,6 +47,8 @@
        position: fixed;
        top: 0;
        left: 0;
+      
+       z-index: -1;
 }
 
 .video video {
@@ -28,8 +63,46 @@
 
 }
 
+/*  CHI-EXERCISES */
+
+  .chi-exercises{
+                 width: 100vw;
+                 height:100vh;
+                 display: grid;
+                 grid-template-areas: 
+                 "a b c";
+
+  }
+
+  /* HORSE */
+   
+  .horse-stance{
+                grid-template-areas: a;
+                background-color:brown;
+                opacity: 0.5;
+  }
+
+     
+  /* Rooster */
+               
+  .rooster-stance{
+                  grid-template-areas: b;
+                 background-color: black;
+                 opacity: 0.5;
+  }
+
+
+  /* Archer */
+     
+ .archer-stance{
+                grid-template-areas: c ;
+                background-color: green;
+                opacity: 0.5;
+ }
+
+
 /* FOR SMALL SCREENS */
-@media screen and (max-width: 600px ){
+@media screen and (max-width: 600px) {
     /* VIDEO */
     .video video{
                  height: 100%;
