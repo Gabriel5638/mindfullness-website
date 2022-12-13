@@ -63,15 +63,18 @@ body{
 
 }
 
+
+
+
 /*  CHI-EXERCISES */
 
   .chi-exercises{
                  width: 100vw;
-                 height:100vh;
+                 height: 100vh;
                  display: grid;
                  grid-template-areas: 
                  "a b c";
-
+                 
   }
 
   /* HORSE */
@@ -80,6 +83,9 @@ body{
                 grid-template-areas: a;
                 background-color:brown;
                 opacity: 0.5;
+                align-items: center;
+                width: 33.3vw;
+                height: 100%;
   }
 
      
@@ -89,6 +95,8 @@ body{
                   grid-template-areas: b;
                  background-color: black;
                  opacity: 0.5;
+                 width: 33.3vw;
+                
   }
 
 
@@ -98,6 +106,7 @@ body{
                 grid-template-areas: c ;
                 background-color: green;
                 opacity: 0.5;
+                width: 33.3vw;
  }
 
 
