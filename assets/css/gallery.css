@@ -1,20 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Nerko+One&display=swap');
 
 body{
-      background-color: #9a7e36;
+      background-color:#9a7e36; ;
 
 }
 
 .nav-list{
 
         font-family: Anton, sans-serif;
-        background: rgba(0, 0, 0, 0.679);
+        background: rgba(0, 0, 0, 0.784);
         box-shadow: 0px, 0px, 10px var(#a3439d);
         margin: 0%;
         padding: 1rem 0%;
         border-radius:var(--radius);
         display: flex;
         align-items: center;
+        
 }
 
 .nav-item{ 
@@ -44,7 +45,7 @@ body{
 .nav-item a{
     font-family: Anton;
     text-decoration: none;
-    color:rgba(255, 255, 255, 0.867);
+    color:#c39c39;
 }
 
 
