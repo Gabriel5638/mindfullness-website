@@ -99,3 +99,29 @@ font-style: italic;
  color: black;
 
 }
+ 
+ .guided-meditation h1{ 
+  font-family: nerko-one,sans-serif;
+  color: rgba(249, 247, 254, 0.826);
+  font-size: x-medium;
+  font-style: italic;
+  text-decoration: underline;
+                   
+ }
+
+ .guided-meditation h2{
+  font-family: nerko-one,sans-serif;
+  color: black;
+  font-style: italic;
+  font-size: 30px;
+  font-style: italic;
+ }
+
+  .guided-meditation h3{
+    font-family: nerko-one,sans-serif;
+    color: black;
+    font-style: italic;
+    font-size: 25px;
+    font-style: italic;
+  }
+
