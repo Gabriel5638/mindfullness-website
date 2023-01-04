@@ -31,7 +31,7 @@ to a more advanced breathing technique called the Wim Hoff method.
 - Gallery
  * The gallery allows the user to access relaxing images from all over the world.
    In order to bring on a more peaceful mental state.
-
+   ![gallery for readme](https://user-images.githubusercontent.com/118306742/210644578-56799d0a-d868-4fc2-8d73-4a9e66826c65.PNG)
 
 
 
