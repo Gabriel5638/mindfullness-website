@@ -11,6 +11,9 @@ to a more advanced breathing technique called the Wim Hoff method.
  * Featured on the homepage this navigation bar is fully interactive,
  allowing users to access home,exercises,gallery and breathwork sections.
 
+![navigation][def]
+[def]: assets/css/images/navigation.PNG
+
 - Videos  
 * clickable youtube videos with built in sound player and pause feature,
   so that the user does not have to navigate to youtube in a separate tab.
@@ -21,3 +24,7 @@ to a more advanced breathing technique called the Wim Hoff method.
 - Gallery
  * The gallery allows the user to access relaxing images from all over the world.
    In order to bring on a more peaceful mental state.
+
+
+
+
