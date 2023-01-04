@@ -1,6 +1,6 @@
 # MindFullness
 
-Mindfullness, is a website dedicated to everyone that wants to imrpove their mental and physical wellbeing.
+Mindfullness, is a website dedicated to everyone that wants to improve their mental and physical wellbeing.
 Whether you are stressed out from work or just want to explore new mindfulness techniques to better yourself and others. 
 This meditation website has what you are searching for, from a very beginner friendly breathing meditation,
 to a more advanced breathing technique called the Wim Hoff method. 
