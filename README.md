@@ -24,7 +24,9 @@ to a more advanced breathing technique called the Wim Hoff method.
 ![wimhoff](https://user-images.githubusercontent.com/118306742/210642859-55960412-77f9-4494-b1bc-bda457e5657e.PNG)
 
 - Sound player
-* sound player with looped rain audio for allowing the user to meditate as long as they wish.
+* sound player with looped rain audio for allowing the user to meditate as long as they wish. 
+
+![sound player](https://user-images.githubusercontent.com/118306742/210643873-5cc26653-c826-4c70-9b0d-7572ca24e4f5.PNG)
 
 - Gallery
  * The gallery allows the user to access relaxing images from all over the world.
