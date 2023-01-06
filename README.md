@@ -37,3 +37,7 @@ to a more advanced breathing technique called the Wim Hoff method.
 * This website works on multiple screen sizes, that means it can be accessed on phones and tablets, please note the ying yang border only appears on phones and tablets this was intended to make the website look more interesting on smaller screens.
 ![phone](https://user-images.githubusercontent.com/118306742/211038601-088f5057-081c-442f-ad1e-97469151320c.PNG) 
 
+### Testing
+
+ I have tested the website on different devices using google inspector and all the pages work on different screen sizes, all navigation sections are clickable,videos and sounds work as intended on iphone and tablets.
+ *validators*
