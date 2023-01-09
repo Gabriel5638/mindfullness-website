@@ -5,15 +5,18 @@
 
 }
 
-.nav-list{
+.nav-list{ font-family: Anton, sans-serif;
+    background: rgba(0, 0, 0, 0.784);
+    margin: 0%;
+    box-shadow: none;
+    padding: 1rem 0%;
+    border-radius:var(--radius);
+    display: flex;
+    align-items: center;
+    
 
-        background: rgba(0, 0, 0, 0.784);
-        margin: 0%;
-        padding: 1rem 0%;
-        border-radius:var(--radius);
-        align-items: center;
-        
 }
+
 
 .nav-item{ 
     list-style: none;
@@ -21,6 +24,17 @@
   
 
 }
+
+
+.nav-item a{
+    font-family: Anton;
+    text-decoration: none;
+    color:#c39c39;
+}
+
+
+
+
 
 .image-grid{
     --gap: 16px;
@@ -38,15 +52,6 @@
     gap: var(--gap);
 
 }
-
-.nav-item a{
-    font-family: Anton;
-    text-decoration: none;
-    color:#c39c39;
-}
-
-
-
 
 
 .image-grid > img{

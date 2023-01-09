@@ -5,32 +5,36 @@ body{
     background-color:#9a7e36;
 
 }
+body{
+  background-color:#9a7e36;
+
+}
+
 .nav-list{ font-family: Anton, sans-serif;
-  background: rgba(0, 0, 0, 0.784);
-  margin: 0%;
-  box-shadow: none;
-  padding: 1rem 0%;
-  border-radius:var(--radius);
-  box-shadow: black;
-  display: flex;
-  align-items: center;
-  
+background: rgba(0, 0, 0, 0.784);
+margin: 0%;
+box-shadow: none;
+padding: 1rem 0%;
+border-radius:var(--radius);
+display: flex;
+align-items: center;
+
 
 }
 
 
 .nav-item{ 
-  list-style: none;
-  margin-left: 2rem;
+list-style: none;
+margin-left: 2rem;
 
 
 }
 
 
 .nav-item a{
-  font-family: Anton;
-  text-decoration: none;
-  color:#c39c39;
+font-family: Anton;
+text-decoration: none;
+color:#c39c39;
 }
 
 
@@ -40,13 +44,13 @@ body{
   text-decoration: underline;
   text-align: center;
   font-weight: bold;
-  font-size: x-large;
+  font-size: 35px;
 }
 
  .rooster-stance h1{
                   font-family: nerko-one,sans-serif;
                    color: rgba(249, 247, 254, 0.826);
-                   font-size: x-medium;
+                   font-size: 30px;
                    font-style: italic;
                    text-decoration: underline;
 
@@ -57,7 +61,7 @@ body{
     font-family: nerko-one,sans-serif;
     color: black;
     font-style: italic;
-    font-size: 30px;
+    font-size: 25px;
     font-style: italic;
     
 
@@ -76,7 +80,7 @@ body{
  .horse-stance h1{
   font-family: nerko-one,sans-serif;
    color: rgba(249, 247, 254, 0.826);
-   font-size: x-medium;
+   font-size: 30px;
    font-style: italic;
    text-decoration: underline;
 
@@ -87,7 +91,7 @@ body{
 font-family: nerko-one,sans-serif;
 color: black;
 font-style: italic;
-font-size: 30px;
+font-size: 25px;
 font-style: italic;
 
 
@@ -103,7 +107,7 @@ font-style: italic;
  .guided-meditation h1{ 
   font-family: nerko-one,sans-serif;
   color: rgba(249, 247, 254, 0.826);
-  font-size: x-medium;
+  font-size: 30px;
   font-style: italic;
   text-decoration: underline;
                    
@@ -113,7 +117,7 @@ font-style: italic;
   font-family: nerko-one,sans-serif;
   color: black;
   font-style: italic;
-  font-size: 30px;
+  font-size: 25px;
   font-style: italic;
  }
 
