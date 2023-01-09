@@ -41,20 +41,19 @@ color:#c39c39;
 .heading{ 
   font-style: italic;
   color: black (255, 255, 255, 0.901);
-  text-decoration: underline;
   text-align: center;
   font-weight: bold;
   font-size: 35px;
 }
 
  .rooster-stance h1{
-                  font-family: nerko-one,sans-serif;
-                   color: rgba(249, 247, 254, 0.826);
-                   font-size: 30px;
-                   font-style: italic;
-                   text-decoration: underline;
+   font-family: nerko-one,sans-serif;
+   color: rgba(249, 247, 254, 0.826);
+   font-size: 30px;
+   font-style: italic;
+   text-decoration: underline;
 
-                   }
+   }
 
                    
   .rooster-stance h2{  
