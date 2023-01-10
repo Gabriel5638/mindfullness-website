@@ -2,11 +2,7 @@
 
 
 body{
-    background-color:#9a7e36;
-
-}
-body{
-  background-color:#9a7e36;
+    background:#8b7c3c ;
 
 }
 
@@ -46,23 +42,29 @@ color:#c39c39;
   font-size: 35px;
 }
 
+.flex-container{
+                 background-color:#8b7c3c;
+                 text-align: center;
+}
+
+
  .rooster-stance h1{
    font-family: nerko-one,sans-serif;
-   color: rgba(249, 247, 254, 0.826);
+   color:rgba(255, 255, 255, 0.895);
    font-size: 30px;
    font-style: italic;
    text-decoration: underline;
-
+   background-color: #000;
    }
 
                    
   .rooster-stance h2{  
     font-family: nerko-one,sans-serif;
-    color: #000;
+    color: rgba(255, 255, 255, 0.895);
     font-style: italic;
     font-size: 25px;
     font-style: italic;
-  
+    background-color: #000;
   }
 
  .rooster-stance h3{ 
@@ -77,21 +79,21 @@ color:#c39c39;
 
  .horse-stance h1{
   font-family: nerko-one,sans-serif;
-   color: rgba(249, 247, 254, 0.826);
+   color: rgba(255, 255, 255, 0.895);
    font-size: 30px;
    font-style: italic;
    text-decoration: underline;
-
+   background-color:#000;
    }
 
    
 .horse-stance h2{  
 font-family: nerko-one,sans-serif;
-color: #000;
+color: rgba(255, 255, 255, 0.895);
 font-style: italic;
 font-size: 25px;
 font-style: italic;
-
+background-color: #000;
 
 
 }
@@ -104,19 +106,21 @@ font-style: italic;
  
  .guided-meditation h1{ 
   font-family: nerko-one,sans-serif;
-  color: rgba(249, 247, 254, 0.826);
+  color: rgba(255, 255, 255, 0.895);
   font-size: 30px;
   font-style: italic;
   text-decoration: underline;
+  background-color: #000;
                    
  }
 
  .guided-meditation h2{
   font-family: nerko-one,sans-serif;
-  color: #000;
+  color: rgba(255, 255, 255, 0.895);
   font-style: italic;
   font-size: 25px;
   font-style: italic;
+  background-color: #000;
  }
 
   .guided-meditation h3{
