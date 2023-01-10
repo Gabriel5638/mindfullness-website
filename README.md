@@ -4,7 +4,7 @@ Mindfullness, is a website dedicated to everyone that wants to improve their men
 Whether you are stressed out from work or just want to explore new mindfulness techniques to better yourself and others. 
 This meditation website has what you are searching for, from a very beginner friendly breathing meditation,
 to a more advanced breathing technique called the Wim Hoff method. 
-![website shot](https://user-images.githubusercontent.com/118306742/211040003-0fc786da-4a24-4a25-8580-506eaedc014d.PNG)
+![website snip](https://user-images.githubusercontent.com/118306742/211632252-27208df9-c891-4095-8a0a-dd05cedf30c5.PNG)
 
 
 ## Features
