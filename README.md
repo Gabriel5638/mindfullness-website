@@ -34,7 +34,7 @@ to a more advanced breathing technique called the Wim Hoff method.
    ![gallery for readme](https://user-images.githubusercontent.com/118306742/210644578-56799d0a-d868-4fc2-8d73-4a9e66826c65.PNG)
 
 - Other Screens 
-* This website works on multiple screen sizes, that means it can be accessed on phones and tablets, please note the ying yang border and navigation bar will get bigger  on very small screens so that it is easier to navigate.
+* This website works on multiple screen sizes, that means it can be accessed on phones and tablets.
 
 ![readme header](https://user-images.githubusercontent.com/118306742/211646733-bdc38f62-4b7a-4aad-867c-a15be4f189e4.PNG)
 
