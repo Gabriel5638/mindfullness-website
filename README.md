@@ -41,6 +41,7 @@ to a more advanced breathing technique called the Wim Hoff method.
 ### Testing
 
  I have tested the website on different devices using google inspector and manually on various phones like iphone 11 and samsung galaxy 8 and all the pages work perfectly on different screen sizes, all navigation sections are clickable,videos and sounds work as intended on small medium and large devices.
+ 
  ![iphone](https://user-images.githubusercontent.com/118306742/211832990-8cc6e591-d168-4c6c-8c05-6065fefdedc6.PNG)
  
  ### Validator Testing
