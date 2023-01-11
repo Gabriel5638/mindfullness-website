@@ -103,5 +103,50 @@ nav ul li a:hover:before{
           
 }
 
+/* styles to apply when screen width is less than 600px */
+@media screen and (max-width: 600px) {
+      .nav ul{
+            
+          width: 30vw;
+          height: fit-content;     
+            
+       }
+
+      .nav ul li{
+            font-size: 15px;
+      }
+      
+      .wrapper{
+            margin-left: 50px;
+      }
 
 
+      .box-area header{ 
+            font-size: 8px;
+  }
+  .box-area footer{
+            font-size: 15px;
+  }
+
+  .logo img {
+      width: 100px;
+}
+.logo{
+      border-style: none;
+      width: 100px;
+      height: 100px;
+      overflow: hidden;
+      margin: 15px ;
+}
+
+.box-area footer{
+                display: none;
+            height: 50px;
+}
+.box-area header{
+          display: none;
+          height: 50px;
+}
+      
+
+}

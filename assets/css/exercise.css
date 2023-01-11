@@ -131,3 +131,44 @@ background-color: #000;
     font-style: italic;
   }
 
+
+  @media screen and (max-width: 600px){
+ 
+    .youtube-video iframe{
+                  width: 100vw;
+                  
+    }
+    .youtube-one iframe{
+                  width: 100vw;
+    }
+  
+
+    .nav-list{
+      font-family: Anton, sans-serif;
+      background: #000;
+      margin: 0%;
+      box-shadow: none;
+      padding: 1rem 0%;
+      border-radius:var(--radius);
+      display: flex;
+      align-items: center;
+    }
+
+
+    .nav-item{ 
+      list-style: none;
+      margin-left: 2rem;
+      background-color: #000;
+      
+      
+      }
+      
+      
+      .nav-item a{
+      font-family: Anton;
+      text-decoration: none;
+      color:#c39c39;
+      background-color: #000;
+      }
+
+  }
