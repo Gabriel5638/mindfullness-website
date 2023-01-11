@@ -42,6 +42,11 @@ to a more advanced breathing technique called the Wim Hoff method.
 ### Testing
 
  * I have tested the website on different devices using google inspector and manually on various phones like iphone 11 and samsung galaxy 8 and all the pages work perfectly on different screen sizes, all navigation sections are clickable,videos and sounds work as intended on small medium and large devices.
+ ### Lighthouse
+ * Used Lighthouse in Chrome DevTools to confirm that the colors and fonts being used in throughout the website are easy to read.
+ * Lighthouse reports
+      
+
  
  ![iphone](https://user-images.githubusercontent.com/118306742/211832990-8cc6e591-d168-4c6c-8c05-6065fefdedc6.PNG)
  
@@ -57,3 +62,14 @@ No errors were found when passing through the official (Jigsaw) validator
  
  - Bugs and other issues
 * I have not found any bugs or any other issues that would affect the website performance.
+
+### Deployment
+  * The site was deployed to GitHub pages. The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master Branch
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+The live link can be found here @[Mindfullness](https://gabriel5638.github.io/mindfullness-website/)
+
+
+### Credits
+   * 

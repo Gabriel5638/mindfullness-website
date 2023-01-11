@@ -2,41 +2,42 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Nerko+One&display=swap');
 
 /* style body */
-body{
-    background:#8b7c3c ;
+body {
+  background: #8b7c3c;
 
 }
 
 /* style navigation bar */
-.nav-list{ font-family: Anton, sans-serif;
-background: #000;
-margin: 0%;
-box-shadow: none;
-padding: 1rem 0%;
-border-radius:var(--radius);
-display: flex;
-align-items: center;
+.nav-list {
+  font-family: Anton, sans-serif;
+  background: #000;
+  margin: 0%;
+  box-shadow: none;
+  padding: 1rem 0%;
+  border-radius: var(--radius);
+  display: flex;
+  align-items: center;
 
 
 }
 
 
-.nav-item{ 
-list-style: none;
-margin-left: 2rem;
+.nav-item {
+  list-style: none;
+  margin-left: 2rem;
 
 
 }
 
 
-.nav-item a{
-font-family: Anton;
-text-decoration: none;
-color:#c39c39;
+.nav-item a {
+  font-family: Anton;
+  text-decoration: none;
+  color: #c39c39;
 }
 
 
-.heading{ 
+.heading {
   font-style: italic;
   color: #000;
   text-align: center;
@@ -45,131 +46,142 @@ color:#c39c39;
 }
 
 /* style flex container and text h1 h2 h3*/
-.flex-container{
-                 background-color:#8b7c3c;
-                 text-align: center;
+.flex-container {
+  background-color: #8b7c3c;
+  text-align: center;
+}
+
+.rooster-stance-header {
+  padding: 1rem 0;
+  background-color: #000;
+}
+
+.rooster-stance h1 {
+  font-family: nerko-one, sans-serif;
+  color: rgba(255, 255, 255, 0.895);
+  font-size: 30px;
+  font-style: italic;
+  text-decoration: underline;
 }
 
 
- .rooster-stance h1{
-   font-family: nerko-one,sans-serif;
-   color:rgba(255, 255, 255, 0.895);
-   font-size: 30px;
-   font-style: italic;
-   text-decoration: underline;
-   background-color: #000;
-   }
+.rooster-stance h2 {
+  font-family: nerko-one, sans-serif;
+  color: rgba(255, 255, 255, 0.895);
+  font-style: italic;
+  font-size: 25px;
+  font-style: italic;
 
-                   
-  .rooster-stance h2{  
-    font-family: nerko-one,sans-serif;
-    color: rgba(255, 255, 255, 0.895);
-    font-style: italic;
-    font-size: 25px;
-    font-style: italic;
-    background-color: #000;
-  }
+}
 
- .rooster-stance h3{ 
-                 font-family: nerko-one,sans-serif;
-                 font-size: 25px;
-                 color: #000;
-                
-    
- }
-
-
-
- .horse-stance h1{
-  font-family: nerko-one,sans-serif;
-   color: rgba(255, 255, 255, 0.895);
-   font-size: 30px;
-   font-style: italic;
-   text-decoration: underline;
-   background-color:#000;
-   }
-
-   
-.horse-stance h2{  
-font-family: nerko-one,sans-serif;
-color: rgba(255, 255, 255, 0.895);
-font-style: italic;
-font-size: 25px;
-font-style: italic;
-background-color: #000;
+.rooster-stance h4 {
+  font-family: nerko-one, sans-serif;
+  font-size: 25px;
+  color: #000;
 
 
 }
-.horse-stance h3{ 
- font-family: nerko-one,sans-serif;
- font-size: 25px;
- color: #000;
+
+.rooster-stance h3 {
+  font-family: nerko-one, sans-serif;
+  font-size: 25px;
+  color: #fff;
+
 
 }
- 
- .guided-meditation h1{ 
-  font-family: nerko-one,sans-serif;
+
+.horse-stance h1 {
+  font-family: nerko-one, sans-serif;
   color: rgba(255, 255, 255, 0.895);
   font-size: 30px;
   font-style: italic;
   text-decoration: underline;
   background-color: #000;
-                   
- }
+}
 
- .guided-meditation h2{
-  font-family: nerko-one,sans-serif;
+
+.horse-stance h2 {
+  font-family: nerko-one, sans-serif;
   color: rgba(255, 255, 255, 0.895);
   font-style: italic;
   font-size: 25px;
   font-style: italic;
   background-color: #000;
- }
-
-  .guided-meditation h3{
-    font-family: nerko-one,sans-serif;
-    color: #000;
-    font-style: italic;
-    font-size: 25px;
-    font-style: italic;
-  }
-
- /*style for small screens */
-  @media screen and (max-width: 600px){
- 
-    .youtube-video iframe{
-                  width: 100vw;
-                  
-    }
-    .youtube-one iframe{
-                  width: 100vw;
-    }
-  
-
-    .nav-list{
-      font-family: Anton, sans-serif;
-      background: #000;
-      margin: 0%;
-      box-shadow: none;
-      padding: 1rem 0%;
-      border-radius:var(--radius);
-      display: flex;
-      align-items: center;
-    }
 
 
-    .nav-item{ 
-      list-style: none;
-      margin-left: 1rem;
-      
-      }
-      
-      
-      .nav-item a{
-      font-family: Anton;
-      text-decoration: none;
-      color:#c39c39;
-     
-      }
+}
+
+.horse-stance h3 {
+  font-family: nerko-one, sans-serif;
+  font-size: 25px;
+  color: #000;
+
+}
+
+.guided-meditation h1 {
+  font-family: nerko-one, sans-serif;
+  color: rgba(255, 255, 255, 0.895);
+  font-size: 30px;
+  font-style: italic;
+  text-decoration: underline;
+  background-color: #000;
+
+}
+
+.guided-meditation h2 {
+  font-family: nerko-one, sans-serif;
+  color: rgba(255, 255, 255, 0.895);
+  font-style: italic;
+  font-size: 25px;
+  font-style: italic;
+  background-color: #000;
+}
+
+.guided-meditation h3 {
+  font-family: nerko-one, sans-serif;
+  color: #000;
+  font-style: italic;
+  font-size: 25px;
+  font-style: italic;
+}
+
+/*style for small screens */
+@media screen and (max-width: 600px) {
+
+  .youtube-video iframe {
+    width: 100vw;
 
   }
+
+  .youtube-one iframe {
+    width: 100vw;
+  }
+
+
+  .nav-list {
+    font-family: Anton, sans-serif;
+    background: #000;
+    margin: 0%;
+    box-shadow: none;
+    padding: 1rem 0%;
+    border-radius: var(--radius);
+    display: flex;
+    align-items: center;
+  }
+
+
+  .nav-item {
+    list-style: none;
+    margin-left: 1rem;
+
+  }
+
+
+  .nav-item a {
+    font-family: Anton;
+    text-decoration: none;
+    color: #c39c39;
+
+  }
+
+}
