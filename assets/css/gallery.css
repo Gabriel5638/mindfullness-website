@@ -1,10 +1,13 @@
+/* Google import fonts */
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Nerko+One&display=swap');
 
+/* style body */
   body{
       background-color:#9a7e36; 
 
 }
 
+/* style navigation bar */
 .nav-list{ font-family: Anton, sans-serif;
     background: #000;
     margin: 0%;
@@ -35,7 +38,7 @@
 
 
 
-
+/* style gallery section */
 .image-grid{
     --gap: 16px;
     --num-cols: 4;

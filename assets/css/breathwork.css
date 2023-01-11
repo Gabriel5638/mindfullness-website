@@ -1,4 +1,4 @@
-/* Google import font */
+/* Google import fonts */
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Nerko+One&display=swap');
 
 /*style body */
@@ -7,6 +7,7 @@
 
  }
 
+ /* style navigation bar */
 .nav-list{ font-family: Anton, sans-serif;
     background: #000;
     margin: 0%;
@@ -34,7 +35,7 @@
     color:#c39c39;
 }
 
-  
+  /*style flex container */
  .flex-container{
                  text-align: center;
                  font-size: 25px;
@@ -87,7 +88,7 @@
  }
  
  
-  
+  /*style for small screens */
  @media screen and (max-width: 600px) {
 
   

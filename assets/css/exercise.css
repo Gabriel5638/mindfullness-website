@@ -1,11 +1,13 @@
+/* Google import fonts */
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Nerko+One&display=swap');
 
-
+/* style body */
 body{
     background:#8b7c3c ;
 
 }
 
+/* style navigation bar */
 .nav-list{ font-family: Anton, sans-serif;
 background: #000;
 margin: 0%;
@@ -42,6 +44,7 @@ color:#c39c39;
   font-size: 35px;
 }
 
+/* style flex container and text h1 h2 h3*/
 .flex-container{
                  background-color:#8b7c3c;
                  text-align: center;
@@ -131,7 +134,7 @@ background-color: #000;
     font-style: italic;
   }
 
-
+ /*style for small screens */
   @media screen and (max-width: 600px){
  
     .youtube-video iframe{
