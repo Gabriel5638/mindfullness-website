@@ -1,5 +1,7 @@
+/* Google import fonts */
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Nerko+One&display=swap');
 
+/* Style body */
 body{ margin: 0;
       padding: 0;
       font-family: anton,sans-serif;
@@ -7,6 +9,7 @@ body{ margin: 0;
       
 }
 
+/* Style navigation bar */
  nav ul{
      margin: 0;
      padding: 0;
@@ -50,6 +53,7 @@ nav ul li a:hover:before{
 
  }   
  
+ /* style center image */
  .wrapper{
           margin-left: 260px;
  }
@@ -86,7 +90,7 @@ nav ul li a:hover:before{
 
        
 
-
+/*  style navigation bar logo */
 .logo{
       border-style: outset;
       border-width: 10px;
@@ -103,7 +107,7 @@ nav ul li a:hover:before{
           
 }
 
-/* styles to apply when screen width is less than 600px */
+/* style for small screens */
 @media screen and (max-width: 600px) {
       .nav ul{
             
