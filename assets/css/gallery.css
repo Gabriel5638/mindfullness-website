@@ -80,10 +80,37 @@ grid-row: span 2;
             --num-cols: 2;
             --row-height: 200px;
      }
-     
 
-   
      
+   
 }
 
-
+/* very small screens 320px */
+@media screen and (max-width:325px){
+    .nav-list{
+        font-family: Anton, sans-serif;
+        background: #000;
+        margin: 0%;
+        box-shadow: none;
+        padding: 1rem 0%;
+        border-radius:var(--radius);
+        display: flex;
+        align-items: center;
+      }
+  
+  
+      .nav-item{ 
+        list-style: none;
+        margin-left: 1rem;
+        
+        }
+        
+        
+        .nav-item a{
+        font-family: Anton;
+        text-decoration: none;
+        color:#c39c39;
+       
+        }
+  
+}
