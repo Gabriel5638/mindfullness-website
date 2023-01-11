@@ -46,3 +46,4 @@ to a more advanced breathing technique called the Wim Hoff method.
  
  ### Validator Testing
   The website has been tested using W3C validator and jigsaw validator for both html and css. No errors or warning were shown for any page and the website passed both tests.
+#### New section
