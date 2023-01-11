@@ -157,9 +157,7 @@ background-color: #000;
 
     .nav-item{ 
       list-style: none;
-      margin-left: 2rem;
-      background-color: #000;
-      
+      margin-left: 1rem;
       
       }
       
@@ -168,7 +166,7 @@ background-color: #000;
       font-family: Anton;
       text-decoration: none;
       color:#c39c39;
-      background-color: #000;
+     
       }
 
   }
