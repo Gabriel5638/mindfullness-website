@@ -44,6 +44,4 @@ to a more advanced breathing technique called the Wim Hoff method.
  
  ![iphone](https://user-images.githubusercontent.com/118306742/211832990-8cc6e591-d168-4c6c-8c05-6065fefdedc6.PNG)
  
- ### Validator Testing
-  The website has been tested using W3C validator and jigsaw validator for both html and css. No errors or warning were shown for any page and the website passed both tests.
-#### New section
+
