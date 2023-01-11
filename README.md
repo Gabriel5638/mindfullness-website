@@ -18,8 +18,8 @@ to a more advanced breathing technique called the Wim Hoff method.
 - Videos  
 * clickable youtube videos with built in sound player and pause feature,
   so that the user does not have to navigate to youtube in a separate tab.
- ![wimhoff 2](https://user-images.githubusercontent.com/118306742/210642893-c6dfed99-c185-493c-a95f-a30bc0b112d7.PNG)
 
+![youtubevid](https://user-images.githubusercontent.com/118306742/211830186-9b82b2b5-b1a0-4e61-9eb9-f4bcffd7b2f7.PNG)
 
 ![wimhoff](https://user-images.githubusercontent.com/118306742/210642859-55960412-77f9-4494-b1bc-bda457e5657e.PNG)
 
