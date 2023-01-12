@@ -8,15 +8,15 @@ to a more advanced breathing technique called the Wim Hoff method.
 ![website snip](https://user-images.githubusercontent.com/118306742/211632252-27208df9-c891-4095-8a0a-dd05cedf30c5.PNG)
 
 
-## Features
+# Features
 
-- Interactive navigation bar
+### Interactive navigation bar
  * Featured on the homepage this navigation bar is fully interactive,
  allowing users to access home,exercises,gallery and breathwork sections.
  
 ![navigation bar](https://user-images.githubusercontent.com/118306742/210639116-19b1d18b-bd97-4926-a61b-634ca98ab7d0.PNG)
 
-- Videos  
+### Videos  
 * clickable youtube videos with built in sound player and pause feature,
   so that the user does not have to navigate to youtube in a separate tab.
 
@@ -24,29 +24,44 @@ to a more advanced breathing technique called the Wim Hoff method.
 
 ![wimhoff](https://user-images.githubusercontent.com/118306742/210642859-55960412-77f9-4494-b1bc-bda457e5657e.PNG)
 
-- Sound player
+### Sound player
 * sound player with looped rain audio for allowing the user to meditate as long as they wish. 
 
 ![sound player](https://user-images.githubusercontent.com/118306742/210643873-5cc26653-c826-4c70-9b0d-7572ca24e4f5.PNG)
 
-- Gallery
+### Gallery
  * The gallery allows the user to access relaxing images from all over the world.
    In order to bring on a more peaceful mental state.
    ![gallery for readme](https://user-images.githubusercontent.com/118306742/210644578-56799d0a-d868-4fc2-8d73-4a9e66826c65.PNG)
 
-- Other Screens 
+### Other Screens 
 * This website works on multiple screen sizes, that means it can be accessed on phones and tablets.
 
 ![readme header](https://user-images.githubusercontent.com/118306742/211646733-bdc38f62-4b7a-4aad-867c-a15be4f189e4.PNG)
 
-### Testing
+# Testing
 
- * |  Test    | Outcome  | Pass\Fail|
-   |----------|----------|----------|
-   | Intro    | Data 2   | Data 3   |
-   | Data 4   | Data 5   | Data 6   |
+ * Please find below my testing process for all pages via mobile and web.
 
- ### Lighthouse
+ ### Navigation 
+ * The navigation bar on left side is responsive when clicked and highlights sections in yellow when hovering over it as intended.
+
+ * Home-When selecting home the browser redirects to home as intended.
+
+ * Gallery-When selecting gallery the browser redirects to gallery as intended.
+
+ * Exercise-When selecting exercises the browser redirects to exercises as intended.
+ 
+ * Breathwork-When selecting breathwork the browser redirects to breathwork as intended.
+ ### Text
+ * Checked that all text is grammatical using grammarly application and that there were no typos.
+ ### Media
+ * Checked that all videos and pictures were responsive when clicking on both phones and laptops, by asking friends to access the 
+  website and click on the videos to see if they worked and by checking using my phone.
+ ### Responsiveness
+ * Checked that the website is responsive using google inspector tool to adjust screen size and find breakpoints. Worked as intended.
+
+ # Lighthouse
  * Used Lighthouse in Chrome DevTools to confirm that the colors and fonts being used in throughout the website are easy to read.
  * Lighthouse reports
       
