@@ -40,12 +40,13 @@ body {
 .heading {
   font-style: italic;
   color: #000;
+  background-color: #FFFFF0;
   text-align: center;
   font-weight: bold;
   font-size: 35px;
 }
 
-/* style flex container and text h1 h2 h3*/
+/* style flex container and text  h2 h3 h4*/
 .flex-container {
   background-color: #8b7c3c;
   text-align: center;
@@ -56,29 +57,13 @@ body {
   background-color: #000;
 }
 
-.rooster-stance h1 {
-  font-family: nerko-one, sans-serif;
-  color: rgba(255, 255, 255, 0.895);
-  font-size: 30px;
-  font-style: italic;
-  text-decoration: underline;
-}
-
 
 .rooster-stance h2 {
   font-family: nerko-one, sans-serif;
-  color: rgba(255, 255, 255, 0.895);
+  color: #fff;
   font-style: italic;
   font-size: 25px;
   font-style: italic;
-
-}
-
-.rooster-stance h4 {
-  font-family: nerko-one, sans-serif;
-  font-size: 25px;
-  color: #000;
-
 
 }
 
@@ -90,19 +75,23 @@ body {
 
 }
 
-.horse-stance h1 {
+
+.rooster-stance h4 {
   font-family: nerko-one, sans-serif;
-  color: rgba(255, 255, 255, 0.895);
-  font-size: 30px;
-  font-style: italic;
-  text-decoration: underline;
+  font-size: 25px;
+  color: #000;
+
+
+}
+
+.horse-stance-header {
+  padding: 1rem 0;
   background-color: #000;
 }
 
-
 .horse-stance h2 {
   font-family: nerko-one, sans-serif;
-  color: rgba(255, 255, 255, 0.895);
+  color: #fff;
   font-style: italic;
   font-size: 25px;
   font-style: italic;
@@ -114,23 +103,28 @@ body {
 .horse-stance h3 {
   font-family: nerko-one, sans-serif;
   font-size: 25px;
-  color: #000;
+  color: #fff;
 
 }
 
-.guided-meditation h1 {
-  font-family: nerko-one, sans-serif;
-  color: rgba(255, 255, 255, 0.895);
-  font-size: 30px;
-  font-style: italic;
-  text-decoration: underline;
-  background-color: #000;
 
+.horse-stance h4 {
+  font-family: nerko-one, sans-serif;
+  font-size: 25px;
+  color: #000;
+
+
+}
+
+
+.meditation-header {
+  padding: 1rem 0;
+  background-color: #000;
 }
 
 .guided-meditation h2 {
   font-family: nerko-one, sans-serif;
-  color: rgba(255, 255, 255, 0.895);
+  color: #fff;
   font-style: italic;
   font-size: 25px;
   font-style: italic;
@@ -138,6 +132,12 @@ body {
 }
 
 .guided-meditation h3 {
+  font-family: nerko-one, sans-serif;
+  font-size: 25px;
+  color: #fff;
+}
+
+.guided-meditation h4 {
   font-family: nerko-one, sans-serif;
   color: #000;
   font-style: italic;
