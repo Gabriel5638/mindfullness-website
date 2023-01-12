@@ -41,7 +41,11 @@ to a more advanced breathing technique called the Wim Hoff method.
 
 ### Testing
 
- * I have tested the website on different devices using google inspector and manually on various phones like iphone 11 and samsung galaxy 8 and all the pages work perfectly on different screen sizes, all navigation sections are clickable,videos and sounds work as intended on small medium and large devices.
+ * |  Test    | Outcome  | Pass\Fail|
+   |----------|----------|----------|
+   | Intro    | Data 2   | Data 3   |
+   | Data 4   | Data 5   | Data 6   |
+
  ### Lighthouse
  * Used Lighthouse in Chrome DevTools to confirm that the colors and fonts being used in throughout the website are easy to read.
  * Lighthouse reports
