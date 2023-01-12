@@ -113,9 +113,9 @@ No errors were found when passing through the official (Jigsaw) validator
 **Content**
 - The text used in breathwork was inspired by [website](https://www.wimhofmethod.com/practice-the-method)
 
-- Used this video as inspiration for creating my homepage navigation bar > [youtube video](https://www.youtube.com/watch?v=oLgtucwjVII)
+- Used this video as inspiration for creating my homepage navigation bar  [youtube video](https://www.youtube.com/watch?v=oLgtucwjVII)
 
-- Adapted this to make my own navigation bar for breathwork exercise and gallery sections > [youtube video](https://www.youtube.com/watch?v=FEmysQARWFU)
+- Adapted this to make my own navigation bar for breathwork exercise and gallery sections  [youtube video](https://www.youtube.com/watch?v=FEmysQARWFU)
 
 - This video helped me add youtube videos to my website [youtube video](https://www.youtube.com/watch?v=ly36kn0ug4k)
 
