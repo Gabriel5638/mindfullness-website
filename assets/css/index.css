@@ -10,6 +10,11 @@ body {
 
 }
 
+/* main image */
+.yoga-image {
+      background-color: #001;
+}
+
 /* Style navigation bar */
 nav ul {
       margin: 0;
@@ -95,8 +100,7 @@ nav ul li a:hover:before {
 .logo {
       border-style: outset;
       border-width: 10px;
-      border-color: beige;
-      background-color: black;
+      background-color: #000;
       width: 150px;
       height: 150px;
       overflow: hidden;
@@ -110,51 +114,69 @@ nav ul li a:hover:before {
 
 /* style for small screens */
 @media screen and (max-width: 600px) {
-      .nav ul {
+      .yoga-image {
+            background-color: #9a7e36;
+      }
 
-            width: 30vw;
-            height: fit-content;
+      nav ul {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 260px;
+            position: fixed;
+            top: 0;
+            left: 0;
+            background-color: rgb(31, 29, 29);
+      }
+
+      nav ul li {
+            list-style: none;
+      }
+
+      nav ul li a {
+            display: block;
+            font-family: anton, sans-serif;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 20px;
+            color: white;
+            position: relative;
+            padding: 25px 0 25px 25px;
+      }
+
+      nav ul li a:before {
+            content: "";
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 0;
+            height: 100%;
+            background: #9a7e36;
+            z-index: -1;
+            transition: all 300ms ease-in-out;
+      }
+
+      nav ul li a:hover:before {
+            width: 95%;
 
       }
 
-      .nav ul li {
-            font-size: 15px;
-      }
 
       .wrapper {
-            margin-left: 50px;
+            margin-left: auto;
       }
 
 
       .box-area header {
-            font-size: 8px;
+            opacity: 0;
+
       }
 
       .box-area footer {
-            font-size: 15px;
+            opacity: 0;
+
       }
 
-      .logo img {
-            width: 100px;
-      }
-
-      .logo {
-            border-style: none;
-            width: 100px;
-            height: 100px;
-            overflow: hidden;
-            margin: 15px;
-      }
-
-      .box-area footer {
-            display: none;
-            height: 50px;
-      }
-
-      .box-area header {
-            display: none;
-            height: 50px;
-      }
 
 
 }
